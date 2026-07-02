@@ -1,10 +1,10 @@
-##🎯 Project Overview
+#🎯 Project Overview
 <br>
 An AI-driven smart sleeve that combines cricket batting analytics with cognitive health monitoring. The system uses IMU sensors to capture movement patterns during batting practice, extracting 15+ mathematical features to detect behavioral markers associated with ADHD tendencies using XGBoost classification.
 
 This project is being developed as a clinically-aware interactive game that evaluates attention patterns, response time, memory, and focus consistency through AI-driven behavioral analysis. It simultaneously reinforces learning through adaptive difficulty levels and provides progress insights for early detection of ADHD tendencies.
 
-##🚀 Key Features 
+#🚀 Key Features 
 <br>
 Real-Time Shot Detection: Classifies batting shots (drive, cut, pull, etc.) using IMU data
 
