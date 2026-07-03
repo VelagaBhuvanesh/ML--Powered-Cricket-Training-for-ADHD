@@ -12,9 +12,9 @@ def balance_adhd200_data():
     # Load the cleaned data (try both locations)
     import os
     possible_paths = [
-        'data/raw/adhd200_cleaned.csv',
-        '../data/raw/adhd200_cleaned.csv',
-        'src/data/raw/adhd200_cleaned.csv'
+        'data/adhd200_cleaned.csv',
+        '../data/adhd200_cleaned.csv',
+        'src/data/adhd200_cleaned.csv'
     ]
     
     file_path = None

@@ -1,0 +1,1 @@
+gender,age,handedness,adhd_measure,adhd_index,inattentive,hyper_impulsive,verbal_iq,performance_iq,full4_iq
